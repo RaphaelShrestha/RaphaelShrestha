@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RaphaelShrestha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Howdy, I’m Raphael 👋
 
-<!---
-RaphaelShrestha/RaphaelShrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Computer Engineering student passionate about building cool projects & learning new technologies.
+
+- 🔭 Currently working on: **Learning ⬇️⬇️**
+- 🌱 Learning: More Python Libraries and APIs
+- 📫 Reach me at: raphaelshrestha87@gmail.com
+
+Thanks for stopping by! 😊
