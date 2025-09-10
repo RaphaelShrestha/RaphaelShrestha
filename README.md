@@ -1,8 +1,8 @@
-# Howdy, I’m Raphael 👋
+# Hi, I’m Raphael
 
-I’m a Computer Engineering student passionate about building cool projects & learning new technologies.
+I’m a Computer Engineering student at The University of Texas at Arlington, and I'm passionate about building cool projects & learning new technologies.
 
-- 🌱 Learning: More Python Libraries and APIs
-- 📫 Reach me at: raphaelshrestha87@gmail.com
+- Learning: Linux (Ubuntu) & C
+- Reach me at: raphaelshrestha87@gmail.com
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
